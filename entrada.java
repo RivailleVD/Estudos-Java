@@ -17,7 +17,7 @@ public class entrada {
 
         System.out.printf("Seu nome é: %s\n" , nome);
         System.out.printf("Sua idade é: %d\n" , idade);
-        System.out.printf("Sua Altura é %dcm\n" , altura);
+        System.out.printf("Sua Altura é %d\n" , altura);
 
         System.out.print("Fim do Programa");
 
